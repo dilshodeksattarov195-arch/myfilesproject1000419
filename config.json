@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpalculate",
+        "uuid": 3160936,
+        "checksum": "edti6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
